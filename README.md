@@ -20,4 +20,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Screenshots
 
+<img src="public/ss2.png" width=500px>
+<br>
 <img src="public/ss1.png" width=500px>
+<br>
+<img src="public/ss3.png" width=500px>
